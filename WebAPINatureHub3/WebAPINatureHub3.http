@@ -1,0 +1,6 @@
+@WebAPINatureHub3_HostAddress = http://localhost:5140
+
+GET {{WebAPINatureHub3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
